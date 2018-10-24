@@ -1,3 +1,1 @@
-CoreAndroid
-
-- MVP
+[Submission 3] In this chapter, we will discuss and use Kotlin Anko Layout same as submission 1, implementing same as submission 2, and Anko SQLite. If you are interested you can learn more about Anko SQLite at following link https://github.com/Kotlin/anko/wiki/Anko-SQLite.
