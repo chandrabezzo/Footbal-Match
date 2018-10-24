@@ -1,0 +1,47 @@
+<resources>
+    <!--<string name="app_name">CoreMVP</string>-->
+
+    <!-- Default -->
+    <string name="search">Search</string>
+    <string name="log_receive_response" formatted="false">Received response for %s in %.1fms%n%s</string>
+    <string name="log_sending_response" formatted="false">Sending request %s on %s%n%s</string>
+    <string name="log_encoded_path" formatted="false">Encoded path %s</string>
+    <string name="log_data_is_null">Data is null</string>
+    <string name="loading">Loading...</string>
+
+    <!-- Main -->
+    <string name="beranda">Beranda</string>
+    <string name="user">User</string>
+    <string name="alamat">Alamat</string>
+    <string name="socmed">Social Media</string>
+    <string name="list">List</string>
+
+    <string name="match_detail">Match Detail</string>
+    <string name="prev_match">Prev. Match</string>
+    <string name="next_match">Next Match</string>
+    <string name="versus">vs</string>
+    <string name="goals">Goals</string>
+    <string name="red_cards">Red Cards</string>
+    <string name="yellow_cards">Yellow Cards</string>
+    <string name="lineups">Lineups</string>
+    <string name="goal_keeper">Goal Keeper</string>
+    <string name="defense">Defense</string>
+    <string name="midfield">Midfield</string>
+    <string name="forward">Forward</string>
+    <string name="subtitutes">Subtitutes</string>
+    <string name="favorite">Favorite</string>
+    <string name="added_as_fav">Added as favorite</string>
+    <string name="deleted_as_favorite">Deleted as favorite</string>
+    <string name="next">Next</string>
+    <string name="last">Last</string>
+    <string name="weight">Weight (Kg)</string>
+    <string name="height">Height (m)</string>
+    <string name="matches">Matches</string>
+    <string name="teams">Teams</string>
+    <string name="favorites">Favorites</string>
+    <string name="overview">Overview</string>
+    <string name="players">Players</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
