@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="rv_club" type="id"/>
+    <item name="club_image" type="id"/>
+    <item name="club_name" type="id"/>
+    <item name="club_desc" type="id"/>
+</resources>
