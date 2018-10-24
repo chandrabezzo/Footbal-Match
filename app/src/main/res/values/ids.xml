@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="rv_event" type="id"/>
+    <item name="event_date" type="id"/>
+    <item name="club_desc" type="id"/>
+    <item name="league_type" type="id"/>
+    <item name="swipe_event" type="id" />
+    <item name="pb_event" type="id" />
+    <item name="home_score" type="id" />
+    <item name="away_score" type="id" />
+    <item name="home_team" type="id" />
+    <item name="image_team" type="id" />
+    <item name="away_team" type="id" />
+</resources>
